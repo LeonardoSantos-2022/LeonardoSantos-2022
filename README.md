@@ -1,16 +1,14 @@
-### Hi there 👋
+## Olá! Me chamo leonardo! :wave:
 
-<!--
-**LeonardoSantos-2022/LeonardoSantos-2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSantos-2022&layout=compact)](https://github.com/LeonardoSantos-2022/github-readme-stats)
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=LeonardoSantos-2022)
+
+<div>
+<a href="https://www.youtube.com/channel/UCSJxrWLxTt5NbSf7Q9msORQ"  target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/Leonardo_santos_l26/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.facebook.com/leonunessan?style=for-the-badge&logo=facebook&logoColor=white"arget="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+</div>
+
