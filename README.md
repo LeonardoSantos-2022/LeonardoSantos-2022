@@ -1,4 +1,4 @@
-## Olá! Me chamo leonardo! :wave:
+## Olá! Me chamo Léo! :wave:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSantos-2022&layout=compact)](https://github.com/LeonardoSantos-2022/github-readme-stats)
 
